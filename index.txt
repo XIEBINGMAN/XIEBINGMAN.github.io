@@ -2,9 +2,9 @@
 
 # sidebar
 
-alt =XIE BINGMAN
+alt = XIE BINGMAN
 XIE BINGMAN
-stduent
+Student
 
 Show Contacts
 
@@ -18,32 +18,18 @@ Birthday
 March 03, 2006
 
 Location
-Guangdong,China
+Guangdong, China
 
 # navbar
 
 About
 Resume
-Portfolio
-Blog
 Contact
 
 # about
 
 About me
-
-I'm a college student majoring in software engineering.In order to learn more knowledge and broaden my horizons,now I'm studying abroad in South Korea.
-
-My MBTI is INFP,and I'm full of imagination and pursue freedom.I love animals and nature,so I often go to parks alone to enjoy the peaceful environment.
-
-
-
-## clients
-
-Clients
-
-alt = client logo
-
+I'm a college student majoring in software engineering. In order to learn more knowledge and broaden my horizons, now I'm studying abroad in South Korea. My MBTI is INFP, and I'm full of imagination and pursue freedom. I love animals and nature, so I often go to parks alone to enjoy the peaceful environment.
 
 
 # resume
@@ -52,8 +38,9 @@ Resume
 
 Education
 
-University of  Yeungnam
-Currently majoring in Software Convergence
+University of Yeungnam
+2025 — Present
+Currently majoring in Software Convergence (a specialized direction of Software Engineering)
 
 
 
